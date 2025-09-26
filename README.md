@@ -49,31 +49,7 @@ Offline Mode: SQLite + caching, USSD/WhatsApp integration
 
 Payments: Mock/demo FNB API integration
 
-🚀 MVP Roadmap
 
-Phase 1 (Weeks 1–3):
-
-Core dashboard (bills, transport, deals)
-
-Text-based AI assistant (mock health advice)
-
-Offline demo mode with preloaded content
-
-Phase 2 (Weeks 4–5):
-
-Voice integration (2–3 local languages)
-
-Symptom checker with AI + nearby clinic mockup
-
-Community alerts (taxi/load-shedding)
-
-Phase 3 (Weeks 6–8):
-
-AI predictive nudges (health + finance + daily tasks)
-
-Telehealth integration
-
-Real-time updates & dashboards
 
 💡 Inspiration
 
